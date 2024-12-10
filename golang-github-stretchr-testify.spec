@@ -6,7 +6,7 @@
 # https://github.com/stretchr/testify
 %global goipath		github.com/stretchr/testify
 %global forgeurl	https://github.com/stretchr/testify
-Version:		1.9.0
+Version:		1.10.0
 
 %gometa
 
